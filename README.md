@@ -5,7 +5,11 @@
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on data analysis/analytics projects
 - 📫 Reach me --> azizulkawser.aust@gmail.com
-- https://www.linkedin.com/in/azizulkawser/
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/azizulkawser/"
 
 <!---
 azizulkawser/azizulkawser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
