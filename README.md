@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azizulkawser
+- 👋 **Hi, I’m 	[Azizul Kawser](https://www.linkedin.com/in/azizulkawser/), A self-motivated experienced data analyst and aspiring data engineer with over 10 years of proficiency in the Financial, Telecommunication, and Software industry.**
 - 🏠 Living in Oulu,Finland but originally from Bangladesh.
 - 📚 Currently studying master's in Business Analytics at the University of Oulu.
 - 👀 I’m interested in learning new things
