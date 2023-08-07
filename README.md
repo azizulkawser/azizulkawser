@@ -23,7 +23,7 @@ I'm currently based in Oulu, Finland 🏠. With a strong background in problem-s
 
 - SQL and Database Management 🛢️ (MySQL, PostgreSQL, SQLite)
 - Python Programming 🐍 (NumPy, Pandas, Scikit-learn,Tkinter, Requests, Beautiful Soup, NLTK etc.)
-- Business Intelligence 🧐 (Power BI, Tableau)
+- Business Intelligence 🪄 (Power BI, Tableau)
 - Cloud Platforms 🌨️ (Microsoft Azure, GCP)
 - DevOps 🛠️ (Docker, Bash, Git/GitHub)
 - Agile Project Management 🤸🏼‍♀️ (Jira)
