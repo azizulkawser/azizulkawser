@@ -1,6 +1,6 @@
 👋 Hi, I’m 	[Azizul Kawser](https://www.linkedin.com/in/azizulkawser/)
 
-Welcome to my GitHub repository! This repository showcases my journey as a Data Analyst and aspiring Data Engineer. Here, you will find a collection of my projects, contributions, and learnings related to data analysis, visualization, and more. Feel free to explore and reach out if you have any questions or collaboration opportunities.👀 I’m interested in learning new things.
+Welcome to my GitHub repository! This repository showcases my journey as a Data Analyst and aspiring Data Engineer. Here, you will find a collection of my projects, contributions, and learnings related to data science, analytics, and more. Feel free to explore and reach out if you have any questions or collaboration opportunities.👀 I’m interested in learning new things.
 
 ## About Me
 I'm Mohammad Azizul Kawser, currently based in Oulu, Finland 🏠. With a strong background in problem-solving, effective communication, and collaborative teamwork, I'm confident in my ability to excel in the field of data analysis. I have a passion for extracting meaningful insights from data and a proven track record of adapting to new situations.
