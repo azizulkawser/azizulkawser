@@ -3,7 +3,7 @@
 Welcome to my GitHub repository! This repository showcases my journey as a Data Analyst and aspiring Data Engineer. Here, you will find a collection of my projects, contributions, and learnings related to data science, analytics, and more. Feel free to explore and reach out if you have any questions or collaboration opportunities.👀 I’m interested in learning new things.
 
 ## About Me
-I'm Mohammad Azizul Kawser, currently based in Oulu, Finland 🏠. With a strong background in problem-solving, effective communication, and collaborative teamwork, I'm confident in my ability to excel in the field of data analysis. I have a passion for extracting meaningful insights from data and a proven track record of adapting to new situations.
+I'm currently based in Oulu, Finland 🏠. With a strong background in problem-solving, effective communication, and collaborative teamwork, I'm confident in my ability to excel in the field of data analysis. I have a proven track record of managing time effectively and adapting to new situations. Aslo I have developed a keen eye for detail and a passion for extracting meaningful insights from data. My experience in fostering a positive and productive work environment has allowed me to work effectively with others to achieve common goals.
 
 ## Education 📚
 - M.Sc. in Business Analytics from the University of Oulu, Finland (Ongoing) 
