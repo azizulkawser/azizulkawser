@@ -26,6 +26,30 @@ My skill set includes:
 - Data-related expertise: Data Cleaning & Transformation, Data Mining
 - Business acumen and communication: Storytelling, Agile Project Management
 
+## Skills
+
+### Common Skills for Data Analyst and Data Engineer:
+
+- SQL and Database Management (MySQL, PostgreSQL, SQLite)
+- Python Programming (NumPy, Pandas, Scikit-learn,Tkinter, Requests, Beautiful Soup, NLTK etc.)
+- Business Intelligence (Power BI, Tableau)
+- Cloud Platforms (Microsoft Azure, GCP)
+- DevOps (Docker, Bash, Git/GitHub)
+- Agile Project Management (Jira)
+
+### Additional Skills for Data Analyst:
+
+- Data Manipulation and Analysis (Pandas, SQL, MS Excel)
+- Data Visualization and Presentation (Matplotlib, Seaborn, Plotly, PowerPoint)
+- Statistical Analysis (NumPy, Scipy, MS Excel)
+- 
+### Additional Skills for Data Engineer:
+
+- ETL Data Pipeline (Airflow, Azure Data Factory)
+- Data Warehousing (Azure Synapse Analytics, Google BigQuery)
+- Big Data Technologies (Hadoop, Spark, Kafka)
+
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/azizulkawser/) to stay updated on my journey and collaborate on data-related projects. Let's make data meaningful and impactful together!
 
 📫 Reach me --> azizulkawser.aust@gmail.com
