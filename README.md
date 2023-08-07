@@ -1,9 +1,3 @@
-<!---
-azizulkawser/azizulkawser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-**GitHub Repository README - Mohammad Azizul Kawser**
-
 👋 Hi, I’m 	[Azizul Kawser](https://www.linkedin.com/in/azizulkawser/)
 
 Welcome to my GitHub repository! This repository showcases my journey as a Data Analyst and aspiring Data Engineer. Here, you will find a collection of my projects, contributions, and learnings related to data analysis, visualization, and more. Feel free to explore and reach out if you have any questions or collaboration opportunities.👀 I’m interested in learning new things.
@@ -32,6 +26,6 @@ My skill set includes:
 - Data-related expertise: Data Cleaning & Transformation, Data Mining
 - Business acumen and communication: Storytelling, Agile Project Management
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/azizul-kawser/) to stay updated on my journey and collaborate on data-related projects. Let's make data meaningful and impactful together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/azizulkawser/) to stay updated on my journey and collaborate on data-related projects. Let's make data meaningful and impactful together!
 
 📫 Reach me --> azizulkawser.aust@gmail.com
