@@ -1,46 +1,102 @@
-👋 Hi, I’m 	[Azizul Kawser](https://www.linkedin.com/in/azizulkawser/)👨🏽‍💻,
+# Hi, I’m Mohammad Azizul Kawser
 
-Welcome to my GitHub repository! This repository showcases my journey as a Data Analyst and aspiring Data Engineer. Here, you will find a collection of my projects, contributions, and learnings related to data science, analytics, and more. Feel free to explore and reach out if you have any questions or collaboration opportunities.I’m interested in learning new things💡.
+**Data Scientist | Analytics Engineer | Data Engineering & ML Decision Systems**
+Based in Finland 🇫🇮
 
-## About Me 🙋🏽‍♂️
-I'm currently based in Oulu, Finland 🏠. With a strong background in problem-solving 🧠, effective communication 💬., and collaborative teamwork🤝, I'm confident in my ability to excel in the field of data analysis. I have a proven track record of managing time ⏳ effectively and adapting to new situations ✨. Aslo I have developed a keen eye 👀 for detail and a passion for extracting meaningful insights 🌱 from data. My experience in fostering a positive 🤗 and productive 🚀 work environment has allowed me to work effectively with others to achieve common goals 🎯.
+I build useful data systems that make complex work easier for people.
 
-## Education 📚
-- M.Sc. in Business Analytics from the University of Oulu, Finland (Ongoing) 
-- Master of Professional Marketing from the University of Dhaka, Bangladesh
-- B.Sc. in Electrical and Electronic Engineering from Ahsanullah University of Science & Technology, Bangladesh
+My work sits at the intersection of **data science, analytics engineering, data engineering, machine learning, and business decision support**. I enjoy working on messy real-world problems where the goal is not just to build a model or dashboard, but to create something reliable, understandable, and useful for people making decisions.
 
-## Work Experiences 🦸🏻‍♂️
-- Sr. Executive Officer (Business Analytics) at IDLC Finance Ltd. (Jun 2019 - Jul 2022)
+---
 
-- Sr. Officer / Executive Officer (Business Finance) at IDLC Finance Ltd. (Jan 2017 - May 2019)
+## What I Work On
 
-- Scrum Master at Btech Solution Private Ltd. (Aug 2015 - Sep 2016)
+I currently work as a **Data Scientist at Flovi**, where I solve vehicle logistics and marketplace problems using data, machine learning, cloud data platforms, and operations research.
 
-## Skills 🤹
+My recent work focuses on:
 
-### Common Skills for Data Analyst and Data Engineer:
+* Analytics- and ML-ready data foundations
+* Logistics performance analysis
+* Delivery reliability and delay-risk analysis
+* Forecasting and driver supply estimation
+* Pricing, reward, and profitability analytics
+* Geospatial analysis for logistics and market understanding
+* Cloud-based reporting and automation pipelines
+* Market expansion analytics for new country evaluation
 
-- SQL and Database Management 🛢️ (MySQL, PostgreSQL, SQLite)
-- Python Programming 🐍 (NumPy, Pandas, Scikit-learn,Tkinter, Requests, Beautiful Soup, NLTK etc.)
-- Business Intelligence 🪄 (Power BI, Tableau)
-- Cloud Platforms 🌨️ (Microsoft Azure, GCP)
-- DevOps 🛠️ (Docker, Bash, Git/GitHub)
-- Agile Project Management 🤸🏼‍♀️ (Jira)
+I care about building solutions that are **simple, maintainable, and trusted by the people who use them**.
 
-### Additional Skills for Data Analyst:
+---
 
-- Data Manipulation and Analysis ⛏️ (Pandas, SQL, MS Excel)
-- Data Visualization and Presentation 🗺️ (Matplotlib, Seaborn, Plotly, PowerPoint)
-- Statistical Analysis 🔢 (NumPy, Scipy, MS Excel)
-  
-### Additional Skills for Data Engineer:
+## Technical Focus
 
-- ETL Data Pipeline 💎 (Airflow, Azure Data Factory)
-- Data Warehousing 🌌 (Azure Synapse Analytics, Google BigQuery)
-- Big Data Technologies 💥 (Hadoop, Spark, Kafka)
+### Data Science & Machine Learning
 
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `LightGBM` · `statsmodels` · `SciPy` · `forecasting` · `hypothesis testing`
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/azizulkawser/) to stay updated on my journey and collaborate on data-related projects. Let's make data meaningful and impactful together!
+### Data Engineering & Analytics Engineering
 
-📫 Reach me --> azizulkawser.aust@gmail.com
+`SQL` · `BigQuery` · `ETL/ELT` · `data warehousing` · `data modeling` · `analytics pipelines` · `scheduled reporting` · `data quality`
+
+### Cloud & Automation
+
+`Google Cloud Platform` · `Cloud Run` · `Cloud Scheduler` · `Cloud Storage` · `Secret Manager` · `AWS` · `Docker` · `Terraform` · `APIs`
+
+### BI, Visualization & Geospatial
+
+`Power BI` · `Looker Studio` · `Tableau` · `Matplotlib` · `Plotly` · `QGIS` · `Kepler.gl` · `OpenStreetMap` · `GeoPandas`
+
+### Applied AI & Workflow Automation
+
+`LLM APIs` · `AI-assisted development` · `workflow automation`
+
+---
+
+## Areas I’m Especially Interested In
+
+* Data products that support real operational decisions
+* Analytics platforms and ML-ready data foundations
+* Forecasting, optimization, and decision-support systems
+* Logistics, marketplaces, mobility, and supply-demand problems
+* Geospatial intelligence and location-based analytics
+* Practical AI automation for business workflows
+
+---
+
+## Education
+
+**Master of Science in Business Analytics**
+University of Oulu, Finland
+Major: Business Analytics / Information Processing Science
+
+Master’s thesis:
+**A Spatiotemporal Forecasting Model within a DSS Framework for Heterogeneous Crew Scheduling in Platform Logistics**
+
+**Master of Professional Marketing**
+University of Dhaka, Bangladesh
+
+**Bachelor of Engineering in Electrical and Electronic Engineering**
+Ahsanullah University of Science and Technology, Bangladesh
+
+---
+
+## How I Work
+
+I value:
+
+* Clear thinking before technical execution
+* Ownership and reliability
+* Calm problem-solving
+* Honest communication
+* Collaboration with people who care about quality and usefulness
+* Continuous learning
+
+For me, good data work is not only about tools. It is about understanding the problem deeply enough to make it clearer, simpler, and more actionable for others.
+
+---
+
+## Connect With Me
+
+* LinkedIn: [linkedin.com/in/azizulkawser](https://www.linkedin.com/in/azizulkawser/)
+* GitHub: [github.com/azizulkawser](https://github.com/azizulkawser)
+* Email: [azizulkawser.aust@gmail.com](mailto:azizulkawser.aust@gmail.com)
